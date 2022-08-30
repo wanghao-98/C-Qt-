@@ -1,0 +1,22 @@
+C:\Users\Administrator\Desktop\二\交会测量\交会测量\bin\Debug\交会测量.exe
+C:\Users\Administrator\Desktop\二\交会测量\交会测量\bin\Debug\交会测量.pdb
+C:\Users\Administrator\Desktop\二\交会测量\交会测量\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\二\交会测量\交会测量\obj\Debug\交会测量.Form1.resources
+C:\Users\Administrator\Desktop\二\交会测量\交会测量\obj\Debug\交会测量.Properties.Resources.resources
+C:\Users\Administrator\Desktop\二\交会测量\交会测量\obj\Debug\交会测量.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\二\交会测量\交会测量\obj\Debug\交会测量.exe
+C:\Users\Administrator\Desktop\二\交会测量\交会测量\obj\Debug\交会测量.pdb
+C:\Users\Administrator\Desktop\二\交会测量\交会测量\obj\Debug\交会测量.Form2.resources
+C:\Documents and Settings\Administrator\桌面\交会测量\交会测量\obj\Debug\交会测量.exe
+C:\Documents and Settings\Administrator\桌面\交会测量\交会测量\obj\Debug\交会测量.pdb
+C:\Documents and Settings\Administrator\桌面\交会测量\交会测量\bin\Debug\交会测量.exe
+C:\Documents and Settings\Administrator\桌面\交会测量\交会测量\bin\Debug\交会测量.pdb
+C:\Documents and Settings\Administrator\桌面\交会测量\交会测量\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\交会测量\交会测量\obj\Debug\交会测量.Form1.resources
+C:\Documents and Settings\Administrator\桌面\交会测量\交会测量\obj\Debug\交会测量.Form2.resources
+C:\Documents and Settings\Administrator\桌面\交会测量\交会测量\obj\Debug\交会测量.Form3.resources
+C:\Documents and Settings\Administrator\桌面\交会测量\交会测量\obj\Debug\交会测量.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\交会测量\交会测量\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\交会测量\交会测量\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\C#\交会测量\交会测量\obj\Debug\交会测量.exe
+G:\C#\交会测量\交会测量\obj\Debug\交会测量.pdb
