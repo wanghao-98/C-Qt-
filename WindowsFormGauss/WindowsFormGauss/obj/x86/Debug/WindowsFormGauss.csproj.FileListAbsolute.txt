@@ -1,0 +1,10 @@
+E:\C#\WindowsFormGauss\WindowsFormGauss\bin\Debug\WindowsFormGauss.exe
+E:\C#\WindowsFormGauss\WindowsFormGauss\bin\Debug\WindowsFormGauss.pdb
+E:\C#\WindowsFormGauss\WindowsFormGauss\obj\x86\Debug\WindowsFormGauss.Form1.resources
+E:\C#\WindowsFormGauss\WindowsFormGauss\obj\x86\Debug\WindowsFormGauss.Properties.Resources.resources
+E:\C#\WindowsFormGauss\WindowsFormGauss\obj\x86\Debug\WindowsFormGauss.csproj.GenerateResource.Cache
+E:\C#\WindowsFormGauss\WindowsFormGauss\obj\x86\Debug\WindowsFormGauss.exe
+E:\C#\WindowsFormGauss\WindowsFormGauss\obj\x86\Debug\WindowsFormGauss.pdb
+E:\C#\WindowsFormGauss\WindowsFormGauss\obj\x86\Debug\WindowsFormGauss.Form2.resources
+E:\C#\WindowsFormGauss\WindowsFormGauss\obj\x86\Debug\WindowsFormGauss.Form3.resources
+E:\C#\WindowsFormGauss\WindowsFormGauss\obj\x86\Debug\WindowsFormGauss.csprojResolveAssemblyReference.cache
